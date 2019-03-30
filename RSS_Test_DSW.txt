@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="https://www.deanwesleysmith.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.deanwesleysmith.com</link>
+	<description></description>
+	<lastBuildDate>Tue, 14 Aug 2018 08:37:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Already Feeling Better</title>
+		<link>https://www.deanwesleysmith.com/already-feeling-better/</link>
+		<comments>https://www.deanwesleysmith.com/already-feeling-better/#respond</comments>
+		<pubDate>Tue, 14 Aug 2018 08:37:32 +0000</pubDate>
+		<dc:creator><![CDATA[dwsmith]]></dc:creator>
+				<category><![CDATA[Challenge]]></category>
+		<category><![CDATA[On Writing]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[running]]></category>
+		<category><![CDATA[exercise]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">https://www.deanwesleysmith.com/?p=25429</guid>
+		<description><![CDATA[Very Annoying&#8230; But since I started eating very healthy, lower calories, more protein, and got my exercise going again, I feel better. I knew that would happen but every time I am shocked. I am over 5 miles walking per day (10,000 steps for my stride), a new streak starting, and have run at least [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>Very Annoying&#8230;</strong></h2>
+<p>But since I started eating very healthy, lower calories, more protein, and got my exercise going again, I feel better. I knew that would happen but every time I am shocked.</p>
+<p>I am over 5 miles walking per day (10,000 steps for my stride), a new streak starting, and have run at least a half mile two of the last three days. And the weight has started down. Shock.</p>
+<p>This is sort of like I feel with writing, and what I hear others expressing as well. Starting is hard, but once you start writing regularly, you feel so much better, so much more joy at the world. And I know I do that as well.</p>
+<p>So I will keep you appraised on how this new streak is going with the 10,000 plus steps. And the increase in running.</p>
+<p>One thing I have learned so far, even though I was cooking while on the coast in Oregon, it is a ton easier to eat healthy here. And even though the temps are over 105 every day, the gyms here have running tracks that are air-conditioned and soft surface and nice. And they are flat!!! There isn&#8217;t a flat ten feet in Lincoln City on the coast. So this is heaven.</p>
+<p>Bet you can&#8217;t tell I&#8217;m really settling in here just fine. (grin)</p>
+<p>And I like my new office. It&#8217;s perfect for me. I am surrounded by computer screens. Six to be exact. Large ones. What fun!</p>
+<h2 style="text-align: center;"><strong>Reminder Last Day or So!!!</strong></h2>
+<h2 style="text-align: center;"><strong>August Regular Workshops Have All Started&#8230;</strong></h2>
+<p>And I will have up the September workshops in a day or so, then the August workshops will vanish from purchase view on Teachable, so don&#8217;t miss out on them.</p>
+<p>There are very few signed up for these August workshops. Remember, the workshops only take a few hours a week of your time, so even for a month like August it should be possible.</p>
+<p>And September there will be a new workshop or two announced. And some new lectures as well coming in September. And the reading list will go out for the first Study Along Workshop in September as well.</p>
+<p>And September starts the new short story and novel challenge. Still spots in both if you are thinking about it. The goal is thirty short stories in sixty days or three novels in three months. You get two regular workshop credits for even giving it a try, so basically you get me reading your work for free.</p>
+<p>To sign up for the challenges with me, write me directly. Information is a few posts below.</p>
+<p>So lots of stuff coming up and it all starts with the August Regular Workshops. Just sign up on <a href="https://wmg-publishing-workshops-and-lectures.teachable.com" target="_blank" rel="noopener">Teachable.com</a>.</p>
+<p>Class #13… Aug 7th … Think Like a Publisher<br />
+Class #14… Aug 7th … Endings<br />
+Class #15… Aug 7th … Point of View<br />
+Class #16… Aug 7th … Writing Mysteries<br />
+Class #17… Aug 7th … Speed<br />
+Class #18… Aug 7th … Teams in Fiction<br />
+Class #19… Aug 8th … Depth in Writing<br />
+Class #20… Aug 8th … How to Edit Your Own Work<br />
+Class #21… Aug 8th … Character Development<br />
+Class #22… Aug 8th … Writing Secondary Plot Lines<br />
+Class #23… Aug 8th… Information Flow<br />
+Class #24… Aug 8th … Magic Bakery</p>
+<p>On Teachable you can also sign up for a lifetime subscription to all the Online Workshops, a lifetime subscription to the Lectures, and a lifetime subscription to the Study Along workshops. Write me if you would like more information on any of those and the advantages of being a lifetime subscriber.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.deanwesleysmith.com/already-feeling-better/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Rewriting Myth</title>
+		<link>https://www.deanwesleysmith.com/the-rewriting-myth/</link>
+		<comments>https://www.deanwesleysmith.com/the-rewriting-myth/#comments</comments>
+		<pubDate>Mon, 13 Aug 2018 08:27:24 +0000</pubDate>
+		<dc:creator><![CDATA[dwsmith]]></dc:creator>
+				<category><![CDATA[Challenge]]></category>
+		<category><![CDATA[On Writing]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[dreams]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">https://www.deanwesleysmith.com/?p=25424</guid>
+		<description><![CDATA[Got a Letter Today&#8230; A very real private letter from a very, very frustrated person who had just seen the Sacred Cow posts I did all those years ago.  (Some are dated but they are all still here.) The writer was thanking me for talking sanity. The letter was heartbreaking, described how it had taken [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>Got a Letter Today&#8230;</strong></h2>
+<p>A very real private letter from a very, very frustrated person who had just seen the Sacred Cow posts I did all those years ago.  (Some are dated but they are all still here.) The writer was thanking me for talking sanity.</p>
+<p>The letter was heartbreaking, described how it had taken a year-and-a-half to write the novel and two-and-a-half more years rewriting and the writer still wasn&#8217;t happy with it, but wanted to move on.</p>
+<p>The writer was clearly having a long-held dream crushed by the myths that range from writing slow and sloppy to rewriting and needing editors and agents and so on.</p>
+<p>Once again, reading that letter, I came to hate these myths that kill people&#8217;s dreams. And the myths are illogical and like cockroaches scuttle for shelter when a real-life light is shined on them.</p>
+<p>Seems I was the light for this poor writer for a short moment. But I take no credit since most of you here know about trying to talk with someone who is buried in the myths. They will not listen and get angry at you. And wow have I had my share of people angry at me over the decades. I just shrug and keep doing what I do.</p>
+<p>This writer today was open and willing to hear simply because the other way was about to crush the dream completely.</p>
+<p>So folks, the lesson here is to never, ever let a myth in at any point of your career. They will kill you eventually. Crush them the moment you discover one impacting your life and writing. And unlike this writer who wrote me today, you might not know you are even being killed.</p>
+<p>What myths am I talking about? How about just the four the writer who sent me the letter talked about.</p>
+<p><strong>&#8212; Writing slowly equals writing better and writing quickly equals writing poorly. </strong></p>
+<p>Stupid beyond words. All of us type about the same pace. Writing quickly means we spend more time writing, thus we get better. Duh. Called practice. The poor writer above spent 1.5 years writing a book first draft. Say the book is 100,000 words long. Divide that by say 500 days and you get the blazing speed of 200 words per day. Most people type longer emails or Facebook posts than that.</p>
+<p><strong>&#8212; Rewriting makes stories better.</strong></p>
+<p>The most deadly of all myths. This one not only kills productivity because instead of writing new books, you are screwing around with the old one. But mostly it tells your creative voice over time that it is valueless because you will fix it later. Thus your creative voice eventually refuses to show up and you are finished, the dream dead. Write and cycle and fix anything the first time through in creative voice only so when you are finished you are done. Then fix typos a first reader finds and typos a copyeditor finds, get the story in print, and move on to the next story.</p>
+<p><strong>&#8212; Agents will help you.</strong></p>
+<p>Head-shaking stupid. They help you in this new world sell all rights to your work and will rip you off. They had their place last century, but time to move into the new world.</p>
+<p><strong>&#8212; Traditional publishers will help you.</strong></p>
+<p>Nope. They will help you lose all your rights to your work and years and years of your time when you could be building an audience and writing more books and practicing and becoming a better storyteller.</p>
+<p>I hope in my letter back I gave the writer the help needed to try to change the path and find the fun and the dream again. I kind of doubt it because any person that far down into the myths seldom recovers.</p>
+<p>But I can hope.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.deanwesleysmith.com/the-rewriting-myth/feed/</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+		</item>
+		<item>
+		<title>Off and Running</title>
+		<link>https://www.deanwesleysmith.com/off-and-running/</link>
+		<comments>https://www.deanwesleysmith.com/off-and-running/#respond</comments>
+		<pubDate>Sun, 12 Aug 2018 08:32:41 +0000</pubDate>
+		<dc:creator><![CDATA[dwsmith]]></dc:creator>
+				<category><![CDATA[Challenge]]></category>
+		<category><![CDATA[running]]></category>
+		<category><![CDATA[workshops]]></category>
+
+		<guid isPermaLink="false">https://www.deanwesleysmith.com/?p=25421</guid>
+		<description><![CDATA[Also Getting Back Into Shape&#8230; The goal is 13 weeks from this weekend to run/walk in the Las Vegas Marathon and complete it around four hours. So not only with the writing goals, I have an exercise and health goal. I considered today Day One, and got off to a good start. Did well over [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>Also Getting Back Into Shape&#8230;</strong></h2>
+<p>The goal is 13 weeks from this weekend to run/walk in the Las Vegas Marathon and complete it around four hours. So not only with the writing goals, I have an exercise and health goal. I considered today Day One, and got off to a good start. Did well over 10,000 steps (5 miles plus) of which a half mile of that was running.</p>
+<p>I want to do about 40 miles per week of walking. Then over the next 13 weeks really ramp up the totals on the running.</p>
+<p>Can you tell I am getting settled in here in Vegas? (grin)</p>
+<h2 style="text-align: center;"><strong>Reminder!!!</strong></h2>
+<h2 style="text-align: center;"><strong>August Regular Workshops Have All Started&#8230;</strong></h2>
+<p>And I will have up the September workshops later in the week, then the August workshops will vanish, so don&#8217;t miss out on them.</p>
+<p>There are very few signed up for these August workshops. Remember, the workshops only take a few hours a week of your time, so even for a month like August it should be possible.</p>
+<p>And September there will be a new workshop or two announced. And some new lectures as well coming in September. And the reading list will go out for the first Study Along Workshop in September as well.</p>
+<p>And September starts the new short story and novel challenge. Still spots in both if you are thinking about it. The goal is thirty short stories in sixty days or three novels in three months. You get two regular workshop credits for even giving it a try, so basically you get me reading your work for free.</p>
+<p>So lots of stuff coming up and it all starts with the August Regular Workshops. Just sign up on <a href="https://wmg-publishing-workshops-and-lectures.teachable.com" target="_blank" rel="noopener">Teachable.com</a>.</p>
+<p>Class #13… Aug 7th … Think Like a Publisher<br />
+Class #14… Aug 7th … Endings<br />
+Class #15… Aug 7th … Point of View<br />
+Class #16… Aug 7th … Writing Mysteries<br />
+Class #17… Aug 7th … Speed<br />
+Class #18… Aug 7th … Teams in Fiction<br />
+Class #19… Aug 8th … Depth in Writing<br />
+Class #20… Aug 8th … How to Edit Your Own Work<br />
+Class #21… Aug 8th … Character Development<br />
+Class #22… Aug 8th … Writing Secondary Plot Lines<br />
+Class #23… Aug 8th… Information Flow<br />
+Class #24… Aug 8th … Magic Bakery</p>
+<p>On Teachable you can also sign up for a lifetime subscription to all the Online Workshops, a lifetime subscription to the Lectures, and a lifetime subscription to the Study Along workshops. Write me if you would like more information on any of those and the advantages of being a lifetime subscriber.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.deanwesleysmith.com/off-and-running/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Challenges Coming Up</title>
+		<link>https://www.deanwesleysmith.com/challenges-coming-up/</link>
+		<comments>https://www.deanwesleysmith.com/challenges-coming-up/#comments</comments>
+		<pubDate>Sat, 11 Aug 2018 08:57:31 +0000</pubDate>
+		<dc:creator><![CDATA[dwsmith]]></dc:creator>
+				<category><![CDATA[Challenge]]></category>
+		<category><![CDATA[On Writing]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[challenge]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">https://www.deanwesleysmith.com/?p=25417</guid>
+		<description><![CDATA[I Am Getting Closer to Setting Some For Myself&#8230; Since my challenge of publishing 67 major books in my 67th year failed so fantastically due to the life roll of a sudden move to Las Vegas (I will manage about 20 or so), I&#8217;ve been thinking about maybe doing 68 major published books for my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>I Am Getting Closer to Setting Some For Myself&#8230;</strong></h2>
+<p>Since my challenge of publishing 67 major books in my 67th year failed so fantastically due to the life roll of a sudden move to Las Vegas (I will manage about 20 or so), I&#8217;ve been thinking about maybe doing 68 major published books for my 68th year. I have a little time to decide.</p>
+<p>I am also thinking of the crazy idea that came up in some comments a week back. &#8220;Living at Pulp Speed Five.&#8221;  Writing ten finished novels in 100 days.  Yeah, that is crazy, but could be great fun. And it would be a great nonfiction book written along the way.</p>
+<p>And for those of you who don&#8217;t know, Pulp Speed Five is about 160,000 words per month.</p>
+<p>(Pulp Speed One is about 80,000, Two is 100,000, Three is 120,000, and Four is 140,000 words per month.)</p>
+<p>Pulp Speed basically means writing one million words per year. Pulp Speed Five is writing around two million words per year if kept up for the entire year.</p>
+<p>And yes, if I did the challenge, you would all be able to read the novels very shortly after I finished. In fact, my gut sense is the first one in the challenge would be coming out before I wrote the last one. (I love this new world.)</p>
+<p>So I&#8217;m thinking about the challenges. But I have also opened back up the challenge to a few of you who want to give it a try starting in September. Write thirty stories in sixty days or three novels in three months. You get two workshop credits for even giving it a try and I will read what you get finished.</p>
+<p>There are still a couple spots open in both challenges (I limit it to five per challenge.) So here is the information again.</p>
+<h2 style="text-align: center;"><strong>Novel And Short Story Challenge</strong></h2>
+<p>There are two challenges starting September 1st. A short story challenge and a novel challenge. The short story writers do 30 stories in 60 days, turn them in to me. The novel writers do three novels in three months and turn them in to me as they finish each one.</p>
+<p>I read all the way along and take notes because I don&#8217;t want to get behind, but I tend to wait toward the end before mailing out my responses because the last thing anyone needs is my voice in their heads while they are trying to do their own work.</p>
+<p>After you are done, you get your two regular online workshops ($600 value) to take when you want.</p>
+<p>As a first reader, I comment as a reader and as an editor some. I say what I like, what doesn&#8217;t work for me, and general stuff like that. <strong>I D0 NOT COPYEDIT or REWRITE</strong> your story or help plot a story. However, I did tell the short story people if a short story would work as a novel. (grin)</p>
+<p>And more importantly, if I thought a story worked, I said so. Simply and clearly.</p>
+<p>Also a fun side detail on this. I have bought five stories for Pulphouse so far from the three challenges. I tell the people to send them off to other markets first, but if they don&#8217;t sell, send them back. Five have come back that fit my new magazine. A wonderful bonus for me I had not expected.</p>
+<p>So I am going to do this again if anyone is interested to write starting September 1st and have me be your first reader. Both short story and novel challenges.</p>
+<p><strong>I WILL ONLY TAKE FIVE FOR EACH CHALLENGE.</strong>  So jump in real quick if you want to do this. They fill every time so far, usually very quickly.</p>
+<h2><strong>SHORT STORY Challenge: </strong></h2>
+<p><strong>&#8212;</strong> Write thirty short stories in 60 days. You can take the full time or you can write them in a month. Up to you.</p>
+<p>&#8212; I will charge $600 to be your first reader. You get two online workshops of your choice, a $600 value when you are finished, just for giving it a try, even if you don&#8217;t hit all thirty. (In essence I read for free.)</p>
+<p>&#8212; If you feel the challenge is not working for you, you can take an off ramp and get the two online workshops at any point. So you can try this risk free.</p>
+<h2><strong>NOVEL Challenge: </strong></h2>
+<p><strong>&#8212;</strong> Write three novels in September, October, and November You can take the full time or you can write them quicker. Up to you.</p>
+<p>&#8212; I will charge $600 to be your first reader. You get two online workshops of your choice, a $600 value when you finish or the time runs out. (In essence, I will read for free if you do the challenge.)</p>
+<p>&#8212; Novels can be any length over 30,000 words and at least half of the first one must be written during the time of the challenge.</p>
+<p>&#8212; If you feel the challenge is not working for you, you can take an off ramp and get the two online workshops at any point.</p>
+<h2><strong>My duties as first reader will be this:</strong></h2>
+<p>I will read your story or novel as a reader, comment as a reader and as an editor some. I will tell you what I liked, what didn&#8217;t work for me, and general stuff like that. <strong>I WILL NOT COPYEDIT or REWRITE</strong> your story or help you plot your story.</p>
+<p><strong>&#8212; A warning…</strong> I have a thick skin and Kris can say if she liked a story or not or if it worked or not and I just shrug and write the next story. To finish a challenge like this, you would need to keep my comments out of your head. I might even suggest you don&#8217;t look at my comments that do I do send until the challenge is over. I more than likely will be reading, but not sending back comments so you won&#8217;t be tempted until done with the challenge.</p>
+<p><strong>&#8212; Cost is $600</strong>. No restrictions. First five signed up and paid for each challenge are in.</p>
+<p><strong>So in summary,</strong> pay $600 to get me as a first reader for thirty stories or three novels. Start on September 1st<sup>.</sup>  Short story challenge goes until the end of October, the novel challenge until the end of November. You get two $300 online workshops when over and my reading for free.</p>
+<p>This was great fun for me this last three times. I am actually surprised at that.</p>
+<p>So looking forward to being a first reader for some of your work. And if you have done the challenge before and want to do it again, fine by me.</p>
+<p>Of course, you could always just do it on your own and play along, test to see if you can do it without me reading your stories.</p>
+<p>Any questions, feel free to write me or ask in the comments section.</p>
+<p>Yes, I am this crazy to do this a fourth time. But you all knew that.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.deanwesleysmith.com/challenges-coming-up/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Depth Done Right</title>
+		<link>https://www.deanwesleysmith.com/depth-done-right/</link>
+		<comments>https://www.deanwesleysmith.com/depth-done-right/#comments</comments>
+		<pubDate>Fri, 10 Aug 2018 07:37:28 +0000</pubDate>
+		<dc:creator><![CDATA[dwsmith]]></dc:creator>
+				<category><![CDATA[Challenge]]></category>
+		<category><![CDATA[On Writing]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[depth]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">https://www.deanwesleysmith.com/?p=25412</guid>
+		<description><![CDATA[An Example of What I Try to Teach&#8230; I&#8217;ve been reading the new Dean Koontz thriller series that started with The Silent Corner. His character, Jane Hawk is great. Now I study Dean Koontz a great deal because his writing is often invisible, his characters built to be real people, his plots usually twisted. And [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>An Example of What I Try to Teach&#8230;</strong></h2>
+<p>I&#8217;ve been reading the new Dean Koontz thriller series that started with <strong>The Silent Corner.</strong> His character, Jane Hawk is great.</p>
+<p>Now I study Dean Koontz a great deal because his writing is often invisible, his characters built to be real people, his plots usually twisted. And he is a master at all kinds of techniques, from floating viewpoints to pacing that won&#8217;t let you go.</p>
+<p>So on looking back through the second book of the series, <strong>The Whispering Room</strong>, I happened to notice how well Koontz sat the scene with depth every chapter in one way or another.</p>
+<p>Now we have a Depth workshop that we suggest everyone take before any other. It shows you how to do basic depth, in other words, hold a reader in a story.</p>
+<p>Then we have Advanced Depth, Research, and Plotting with Depth workshops that add to that basic first depth course. But sadly, so often writers who learn depth forget to add it in at the start of every scene, at the start of every chapter, to ground the reader in the setting.</p>
+<p>So let me give you a simple paragraph, actually only one sentence, of Dean Koontz doing depth right, with details and a ton of opinion through Jane Hawk about the setting she is in.</p>
+<p>This is from the opening of Chapter 27 of the second part. About fifty chapters into the book at least.</p>
+<p>&#8212;&#8212;</p>
+<p><strong><em>The city bus growled through the late morning, seeming to be out of control when it gained any speed at all, lurching to the curb at each of the frequent stops, air brakes sighing as though with exasperation, wallowing back into traffic that didn&#8217;t want to admit it, less a motor vehicle than some hoven beast asserting privilege by virtue of its size.</em></strong></p>
+<p>&#8212;&#8211;</p>
+<p>One sentence.</p>
+<p>The next paragraph starts&#8230;</p>
+<p><em><strong>At her window seat, Jane Hawk kept her head turned&#8230;</strong></em></p>
+<p>We got the scene clearly and completely. The entire chapter is only about 400 words, used to show how she escaped something in earlier chapters. A filler chapter, basically for the reader to be clear she is fine.</p>
+<p>A lesser writer would have just said she got on a city bus and have her sit and worry about her kid. But I just wanted to show a master at work because I know a lot of you don&#8217;t study or read Koontz, even though he might be the second best storyteller working next to King. And a ton easier to study.</p>
+<p>So for those of you who think depth is only needed in the opening, nope. Every chapter, every scene opening if you want to hold your readers in your book. And trust me, Koontz will hold you.</p>
+<p>And in places in this series, you might not want to be held in the story. (grin)</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.deanwesleysmith.com/depth-done-right/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		</item>
+		<item>
+		<title>Master Business Class Information</title>
+		<link>https://www.deanwesleysmith.com/master-business-class-information/</link>
+		<comments>https://www.deanwesleysmith.com/master-business-class-information/#respond</comments>
+		<pubDate>Thu, 09 Aug 2018 08:34:59 +0000</pubDate>
+		<dc:creator><![CDATA[dwsmith]]></dc:creator>
+				<category><![CDATA[Challenge]]></category>
+		<category><![CDATA[On Writing]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[workshops]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">https://www.deanwesleysmith.com/?p=25409</guid>
+		<description><![CDATA[Still Have Openings&#8230; The workshop is October 19th through the 23rd in Las Vegas. A firehose of information at the top levels of indie publishing business. Folks, you don&#8217;t want to miss this one. Write me at dean.wmgworkshops@gmail.com to get more information and instructions on how to sign up and pay for the workshop. The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>Still Have Openings&#8230;</strong></h2>
+<p>The workshop is October 19th through the 23rd in Las Vegas. A firehose of information at the top levels of indie publishing business.</p>
+<p>Folks, you don&#8217;t want to miss this one. Write me at <strong>dean.wmgworkshops@gmail.com</strong> to get more information and instructions on how to sign up and pay for the workshop.</p>
+<p>The workshop is being held at the Golden Nugget in downtown Las Vegas in a beautiful and modern convention center. There is a block of room you want to be in because it will be cheaper and also for ease and other reasons. I will send you a code to get into the workshop room block once you sign up.</p>
+<p>And just today we got it okayed that if you come in early or want to stay over a day or so after, you can keep the same block rate of the conference.</p>
+<p>Normally, for the last three years, this workshop was sold out by now, but we still have room in the workshop this year because of the move to Las Vegas and so many people having to drop out due to the change in venue. So we have room, but don&#8217;t wait too long to sign up. I expect this workshop with this cast of instructors to fill quickly now.</p>
+<p>Again, a don&#8217;t-miss workshop. And you can get all the information on this and any coast workshop at <a href="http://www.wmgworkshops.com" target="_blank" rel="noopener">www.wmgworkshops.com</a> including pictures of all the Master Class instructors so far.</p>
+<p>Later in August we will start finalizing the actual schedule of the workshop, so stay tuned for that.</p>
+<p>Here is the basic information&#8230;</p>
+<h2 style="text-align: center;"><strong>WMG Publishing Business Master Class: </strong></h2>
+<h2 style="text-align: center;"><strong>The Cutting Edge of the Publishing Business</strong></h2>
+<p><em>New York Times</em> and <em>USA Today</em> bestselling writers and renowned business and industry bloggers Kristine Kathryn Rusch and Dean Wesley Smith lead this intense five days of business and publishing learning.</p>
+<p>Kris and Dean are joined by at least nine other experts.</p>
+<p>&#8212; Mark Leslie (Lefebvre), acclaimed writer, podcaster, editor, and formally with Kobo.</p>
+<p>&#8212; Kevin J. Anderson, <em>New York Times</em> bestselling writer and co-owner of the premier indie press Wordfire Press.</p>
+<p>&#8212; Rebecca Moesta, <em>New York Times</em> bestselling writer of young adult books and co-owner of the premier indie press Wordfire Press.</p>
+<p>&#8212; David Farland, <em>New York Times</em> bestselling writer, Hollywood expert, and executive editor for Writers of the Future.</p>
+<p>&#8212; David P. Vandagriff, aka The Passive Guy. Premier blogger, expert in publishing contracts, and an IP attorney.</p>
+<p>&#8212; Christina F York, bestselling science fiction and mystery writer under a number of names.</p>
+<p>&#8212; Gwyneth Gibby, WMG Publishing Associate Publisher and an expert on the promotions aspects in publishing</p>
+<p>&#8212; Andrea Pearson, host of the popular <em>Self-Publish Strong</em> podcast.</p>
+<p>&#8212; Donna Cook, author, editor, and publishing consultant.</p>
+<p>Plus others to be announced, including bestselling writer T. Thorn Coyle as panel moderator.</p>
+<p>This is a business workshop. No writing, but a notebook full of notes and a lot of training. In fact, every topic a writer can imagine needing to be covered will be in this week at one point or another by experts. From cash flow to increasing sales to SEO to website design to cover and interior book design to blurbs to publisher catalogs to distribution of paper books to stores to production to learning how to write more to audio to overseas sales to contracts to bundles to… So much more.</p>
+<p>This workshop focuses on selling more books, indie publishing, the business of indie and hybrid, and the constant changes overwhelming us all.</p>
+<p>Plus, a major focus on networking. Lunches with experts, group breakfasts, time to talk, and every evening a hospitality suite to talk and plan and get to know other professionals.</p>
+<p><strong>This is flat out the Premier Publishing Business Workshop for indie writers.</strong></p>
+<p>Again, for more information or to sign up, write me at dean.wmgworkshops@gmail.com.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.deanwesleysmith.com/master-business-class-information/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>All August Workshops Started</title>
+		<link>https://www.deanwesleysmith.com/all-august-workshops-started/</link>
+		<comments>https://www.deanwesleysmith.com/all-august-workshops-started/#respond</comments>
+		<pubDate>Wed, 08 Aug 2018 08:47:39 +0000</pubDate>
+		<dc:creator><![CDATA[dwsmith]]></dc:creator>
+				<category><![CDATA[Challenge]]></category>
+		<category><![CDATA[workshops]]></category>
+
+		<guid isPermaLink="false">https://www.deanwesleysmith.com/?p=25406</guid>
+		<description><![CDATA[But Still Time To Join One or More of Them&#8230; August Regular Online Workshops have all started. There are very few signed up for these August workshops. Remember, the workshops only take a few hours a week of your time, so even for a month like August it should be possible. And September there will [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>But Still Time To Join One or More of Them&#8230;</strong></h2>
+<p>August Regular Online Workshops have all started. There are very few signed up for these August workshops. Remember, the workshops only take a few hours a week of your time, so even for a month like August it should be possible.</p>
+<p>And September there will be a new workshop or two announced. And some new lectures as well. And the reading list will go out for the first Study Along Workshop in September as well.</p>
+<p>And September starts the new short story and novel challenge. Still spots in both if you are thinking about it. The goal is thirty short stories in sixty days or three novels in three months. You get two regular workshop credits for even giving it a try, so basically you get me reading your work for free.</p>
+<p>So lots of stuff coming up and it all starts with the August Regular Workshops. Just sign up on <a href="https://wmg-publishing-workshops-and-lectures.teachable.com" target="_blank" rel="noopener">Teachable.com</a>.</p>
+<p>Class #13… Aug 7th … Think Like a Publisher<br />
+Class #14… Aug 7th … Endings<br />
+Class #15… Aug 7th … Point of View<br />
+Class #16… Aug 7th … Writing Mysteries<br />
+Class #17… Aug 7th … Speed<br />
+Class #18… Aug 7th … Teams in Fiction<br />
+Class #19… Aug 8th … Depth in Writing<br />
+Class #20… Aug 8th … How to Edit Your Own Work<br />
+Class #21… Aug 8th … Character Development<br />
+Class #22… Aug 8th … Writing Secondary Plot Lines<br />
+Class #23… Aug 8th… Information Flow<br />
+Class #24… Aug 8th … Magic Bakery</p>
+<p>On Teachable you can also sign up for a lifetime subscription to all the Online Workshops, a lifetime subscription to the Lectures, and a lifetime subscription to the Study Along workshops. Write me if you would like more information on any of those and the advantages of being a lifetime subscriber.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.deanwesleysmith.com/all-august-workshops-started/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Plot Twists</title>
+		<link>https://www.deanwesleysmith.com/plot-twists/</link>
+		<comments>https://www.deanwesleysmith.com/plot-twists/#comments</comments>
+		<pubDate>Wed, 08 Aug 2018 08:37:39 +0000</pubDate>
+		<dc:creator><![CDATA[dwsmith]]></dc:creator>
+				<category><![CDATA[Challenge]]></category>
+		<category><![CDATA[On Writing]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[plot twists]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">https://www.deanwesleysmith.com/?p=25401</guid>
+		<description><![CDATA[Maybe This Should Be A Workshop&#8230; Plot twists, when done right, are wonderful for readers, and can get your book talked about and help you sell more copies. When done wrong, plot twists make a reader toss a book against a wall and never read another thing by that author. So what makes a good [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>Maybe This Should Be A Workshop&#8230;</strong></h2>
+<p>Plot twists, when done right, are wonderful for readers, and can get your book talked about and help you sell more copies. When done wrong, plot twists make a reader toss a book against a wall and never read another thing by that author.</p>
+<p>So what makes a good plot twist? As I said, I think there is more than enough to make this into a full four week workshop with webinars.</p>
+<p>But for kicks here, since plot twists are on my mind, let me try to hit a few high points of good plot twists that spring to mind.</p>
+<p><strong>&#8212; The twist must be a surprise, yet not a complete surprise. </strong></p>
+<p>In other words, it must be set up in a way the reader doesn&#8217;t expect it, yet doesn&#8217;t make the reader go &#8220;No way!&#8221;</p>
+<p><strong>&#8212; The twist must be logical for the character.</strong></p>
+<p>A bad plot twist would be a character falling off a building and suddenly sprouting wings with no set-up to the reader that the wings were there. That&#8217;s not a plot twist, that&#8217;s just stupid writing.</p>
+<p>It is logical for Ethan Hawk to hang from a helicopter or jump from a window. Not logical for your Aunt Mary to do either.</p>
+<p><strong>&#8212; The plot twist must be logical for the plot, but not obvious to the reader.</strong></p>
+<p>Readers can not expect a plot twist. It must happen in a way to take the reader through the twist in a way that when the reader looks back, it was all logical. Just that the reader didn&#8217;t see it coming. (There are tricks and techniques to do this.)</p>
+<p><strong>&#8212; Large plot twists should be few and far between.</strong></p>
+<p>Otherwise the reader comes to expect them and they no longer function to drive the story or to hold the reader in the story.</p>
+<p>That&#8217;s just a few of many elements that make up good plot twists.</p>
+<p>So why are plot twists on my mind? Because I am in a nifty plot twist bundle with my novel <strong>Laying the Music to Rest.</strong></p>
+<p>Plus in the bundle are seven other books with plot twists done right. I have read a number of them already and folks, if  you like science fiction with great plot twists, you can&#8217;t go wrong with this bundle. Plus you get an issue of <strong>Fiction River Presents</strong> and an issue of <strong>Boundary Shock.</strong></p>
+<p>So grab this bundle. And let me know if you think Kris and I should even think about teaching a workshop on plot twists. Might be a lot of fun, actually.</p>
+<p><a href="https://www.storybundle.com/scifi" target="_blank" rel="noopener">https://www.storybundle.com/scifi</a></p>
+<p><img class="aligncenter size-full wp-image-25382" src="https://www.deanwesleysmith.com/wp-content/uploads/2018/08/All-Covers-Large.jpg" alt="" width="1600" height="960" srcset="https://www.deanwesleysmith.com/wp-content/uploads/2018/08/All-Covers-Large.jpg 1600w, https://www.deanwesleysmith.com/wp-content/uploads/2018/08/All-Covers-Large-300x180.jpg 300w, https://www.deanwesleysmith.com/wp-content/uploads/2018/08/All-Covers-Large-768x461.jpg 768w, https://www.deanwesleysmith.com/wp-content/uploads/2018/08/All-Covers-Large-1024x614.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.deanwesleysmith.com/plot-twists/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>August Workshops Starting Up</title>
+		<link>https://www.deanwesleysmith.com/august-workshops-starting-up/</link>
+		<comments>https://www.deanwesleysmith.com/august-workshops-starting-up/#comments</comments>
+		<pubDate>Tue, 07 Aug 2018 08:16:12 +0000</pubDate>
+		<dc:creator><![CDATA[dwsmith]]></dc:creator>
+				<category><![CDATA[Challenge]]></category>
+		<category><![CDATA[On Writing]]></category>
+		<category><![CDATA[publishing]]></category>
+		<category><![CDATA[workshops]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">https://www.deanwesleysmith.com/?p=25398</guid>
+		<description><![CDATA[It&#8217;s That Time&#8230; August Regular Online Workshops are starting up. Actually, this caught me by surprise tonight as well. Sort of snuck up on me to be honest with all the travel and move stuff. But now I am settled into my new office and moving forward again just in time for these to get [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>It&#8217;s That Time&#8230;</strong></h2>
+<p>August Regular Online Workshops are starting up. Actually, this caught me by surprise tonight as well. Sort of snuck up on me to be honest with all the travel and move stuff. But now I am settled into my new office and moving forward again just in time for these to get started.</p>
+<p>To be honest, there are very few signed up for these August workshops. Almost everyone will get a private lesson. Remember, the workshops only take a few hours a week of your time, so even for a month like August it should be possible.</p>
+<p>And September there will be a new workshop announced. And some new lectures as well.</p>
+<p>And the reading list will go out for the first Study Along Workshop in September as well.</p>
+<p>And September starts the new short story and novel challenge. Still spots in both if you are thinking about it. The goal is thirty short stories in sixty days or three novels in three months. You get two regular workshop credits for even giving it a try, so basically you get me reading your work for free.</p>
+<p>So lots of stuff coming up and it all starts tonight with the beginning of the August Regular Workshops. Just sign up on <a href="https://wmg-publishing-workshops-and-lectures.teachable.com" target="_blank" rel="noopener">Teachable.com</a>.</p>
+<p>Class #13… Aug 7th … Think Like a Publisher<br />
+Class #14… Aug 7th … Endings<br />
+Class #15… Aug 7th … Point of View<br />
+Class #16… Aug 7th … Writing Mysteries<br />
+Class #17… Aug 7th … Speed<br />
+Class #18… Aug 7th … Teams in Fiction<br />
+Class #19… Aug 8th … Depth in Writing<br />
+Class #20… Aug 8th … How to Edit Your Own Work<br />
+Class #21… Aug 8th … Character Development<br />
+Class #22… Aug 8th … Writing Secondary Plot Lines<br />
+Class #23… Aug 8th… Information Flow<br />
+Class #24… Aug 8th … Magic Bakery</p>
+<p>On Teachable you can also sign up for a lifetime subscription to all the Online Workshops, a lifetime subscription to the Lectures, and a lifetime subscription to the Study Along workshops. Write me if you would like more information on any of those and the advantages of being a lifetime subscriber.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.deanwesleysmith.com/august-workshops-starting-up/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Reading And Story Consumption</title>
+		<link>https://www.deanwesleysmith.com/reading-and-story-consumption/</link>
+		<comments>https://www.deanwesleysmith.com/reading-and-story-consumption/#comments</comments>
+		<pubDate>Mon, 06 Aug 2018 07:12:51 +0000</pubDate>
+		<dc:creator><![CDATA[dwsmith]]></dc:creator>
+				<category><![CDATA[Challenge]]></category>
+		<category><![CDATA[On Writing]]></category>
+		<category><![CDATA[story]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">https://www.deanwesleysmith.com/?p=25394</guid>
+		<description><![CDATA[Today, While Resting, I Consumed Story&#8230; Since I just pulled into town last night, I decided to mostly rest today. So besides some naps, I read part of a Dean Koontz novel called The Silent Corner. It is the first book with a new continuing character. I think he’s got three or four in the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>Today, While Resting, I Consumed Story&#8230;</strong></h2>
+<p>Since I just pulled into town last night, I decided to mostly rest today.</p>
+<p>So besides some naps, I read part of a Dean Koontz novel called The Silent Corner. It is the first book with a new continuing character. I think he’s got three or four in the series now and it is typical Koontz smooth writing and rich details.</p>
+<p>And then Kris and I went to a movie, a fun one about a spy who dropped his girlfriend. Just a wonderful, fun spoof.</p>
+<p>I seldom talk here about my reading or story consumption. But as any professional writer, I do it all the time. For example, on the trip down I listened to a bunch of those NBC murder case shows on the radio not only for the murder and real-life human character details, but the story.</p>
+<p>And that’s all just in the last 24 or so hours. Consuming story is part of my passion and also part of my profession. If you are not reading much, or looking down your nose at movies or television, you are hurting your writing.</p>
+<p>Read for pleasure. Then if the book held you or you didn’t understand how an author did something that worked for you, go back and study it. But always read for pleasure first. If you can’t read for pleasure or just go to a movie for the fun of it, then your readers will find no pleasure in your work either.</p>
+<p>Now back to the Koontz novel.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.deanwesleysmith.com/reading-and-story-consumption/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		</item>
+	</channel>
+</rss>	
